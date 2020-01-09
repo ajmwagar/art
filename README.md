@@ -1,0 +1,2 @@
+# art
+Awesome Rust Template
