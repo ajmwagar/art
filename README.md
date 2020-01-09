@@ -31,5 +31,7 @@
 
 1. Create another repo using this template
 2. Set the `GITHUB_TOKEN` secret in Github Secrets
+3. Change `[CRATE_NAME]` to your new crate's name.
 3. Change something and push.
+4. Run `cargo publish` (if applicable)
 4. Profit!
