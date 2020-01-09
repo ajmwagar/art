@@ -23,8 +23,8 @@
 ## Features
 - Great `README.md` template
 - CI/CD Pipeline using Github Actions
-- Automatic Code coverage using gcov and coveralls.io
-- Docker build step and publish to Github packages
+- Automatic Code coverage using gcov and coveralls.io **TODO!**
+- Docker build step and publish to Github packages **TODO!**
 - Test/Benchmark templates
 
 ## Setup
